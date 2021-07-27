@@ -1,0 +1,13 @@
+build/scala*
+build/*.jar
+build/build.out
+*.iml
+*.idea/
+*.log
+.*.swp
+.idea/**
+**/.classpath
+**/.project
+**/.settings
+target
+**/src/main/resources/git.properties
